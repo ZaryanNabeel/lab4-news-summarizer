@@ -1,4 +1,4 @@
-# Lab Assignment 4 — Selenium News Summarizer API
+# Lab Assignment 4 - Selenium News Summarizer API
 
 **Registration:** FA23-BDS-039  
 **News source:** MIT Technology Review (039 % 20 + 1 = 20)  
